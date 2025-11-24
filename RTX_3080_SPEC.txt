@@ -1,0 +1,43 @@
+## NVIDIA GeForce RTX 3080 Specifications
+Architecture: Ampere (GA102-200-A1)
+Fabrication Process: Samsung 8 nm
+CUDA Cores: 8704
+RT Cores: 68 (2nd-Gen)
+Tensor Cores: 272 (3rd-Gen)
+Base Clock: 1.44 GHz
+Boost Clock: 1.71 GHz
+
+## Memory & Bandwidth
+VRAM: 10 GB GDDR6X
+Memory Speed: 19 Gbps
+Memory Bus: 320-bit
+Memory Bandwidth: 760 GB/s
+L2 Cache: 5 MB
+
+## Power Specs
+TDP / TBP: 320 W
+Recommended PSU: 750 W
+Power Connectors: Dual 8-pin or 12-pin adapter
+Max Temperature: 93 °C
+
+## Performance Characteristics
+FP32 Compute: 29.8 TFLOPS
+Ray Tracing Throughput: ~60 RT-TFLOPS
+Gaming Target: 1440p / 4K High
+Compute APIs: CUDA, TensorRT, OptiX
+
+## Display IO
+Outputs: 3 × DisplayPort 1.4a, 1 × HDMI 2.1
+PCIe: PCIe 4.0 x16
+Max Digital Resolution: 7680 × 4320
+
+## Supported Technologies
+DLSS 3 (Frame Generation Limited to RTX40 series), DLSS 2, G-Sync, NVENC + AV1 decode
+
+## Build
+Cooling: Dual-axial flow-through
+Dimensions: 285 mm length, 2-slot
+
+## Release Details
+Launch Price: US$699
+Release Date: September 17, 2020

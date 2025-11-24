@@ -1,0 +1,43 @@
+## AMD Radeon RX 6700 XT Specifications
+Architecture: RDNA 2
+Fabrication Process: TSMC 7 nm
+Compute Units: 40
+Game Clock: 2.42 GHz
+Boost Clock: 2.58 GHz
+Stream Processors: 2560
+Ray Accelerators: 40 (1st-Gen)
+
+## Memory & Bandwidth
+VRAM: 12 GB GDDR6
+Memory Speed: 16 Gbps
+Memory Bus Width: 192-bit
+Memory Bandwidth: 384 GB/s (with Infinity Cache)
+Infinity Cache: 96 MB
+
+## Power & Thermals
+TDP / TBP: 230 W
+Recommended PSU: 650 W
+Power Connectors: 1 × 8-pin + 1 × 6-pin
+Maximum Operating Temperature: 93 °C
+
+## Performance Metrics
+Target Resolutions: 1440p Ultra, 1080p High FPS
+Ray Tracing: Entry-level RT performance
+
+## Display & IO
+Outputs: 3 × DisplayPort 1.4a, 1 × HDMI 2.1
+PCIe Interface: PCIe 4.0 x16
+VR Support: Yes
+
+## Feature Support
+API: DirectX 12 Ultimate, Vulkan 1.3, OpenGL 4.6
+Technologies: FSR 3, Radeon Anti-Lag, SAM, Radeon Boost
+
+## Physical & Build
+Form Factor: Dual-slot
+Cooling: Dual or triple fan depending on board partner
+
+## Launch Info
+Release Date: March 18, 2021
+Launch Price: US$479
+Market Target: 1440p gaming mainstream segment

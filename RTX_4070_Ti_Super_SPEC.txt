@@ -1,0 +1,47 @@
+## NVIDIA GeForce RTX 4070 Ti Super Specifications
+Architecture: Ada Lovelace  
+Fabrication Process: TSMC 5N (5 nm)  
+CUDA Cores: 7 680  
+RT Cores (3rd-Gen): 60  
+Tensor Cores (4th-Gen): 240  
+Base Clock: 2.31 GHz  
+Boost Clock: 2.61 GHz  
+
+## Memory & Bandwidth  
+VRAM: 12 GB GDDR6X  
+Memory Speed: 21 Gbps  
+Memory Bus Width: 192-bit  
+Memory Bandwidth: ~504 GB/s  
+Cache (L2): 48 MB  
+
+## Power & Thermals  
+TDP / TBP: 285 W  
+Typical Power Draw: ~255-285 W  
+Recommended PSU: 750 W  
+Power Connectors: 1 × 12VHPWR (16-pin) or 2 × 8-pin  
+Max Operating Temperature: 88 °C  
+
+## Performance Metrics  
+FP32 Compute: ~30 TFLOPS  
+Target Workloads: 1440p/4K Gaming, High Refresh Rate  
+Ray Tracing: High Quality for 1440p, capable for 4K  
+AI Upscale: DLSS 3.5 with Frame Generation  
+
+## Display & IO  
+Outputs: 3 × DisplayPort 1.4a, 1 × HDMI 2.1a  
+PCIe Interface: PCIe 4.0 x16  
+AV1 Encode & Decode: Yes  
+VR Support: Yes  
+
+## Feature Support  
+API: DirectX 12 Ultimate, Vulkan 1.3, OpenGL 4.6  
+Technologies: DLSS 3.5, Nvidia Reflex, G-Sync, RTX Video Super Resolution  
+
+## Physical & Build  
+Form Factor: 3-slot design, ~267 mm length (varies by board partner)  
+Cooling: Dual/triple‐fan vapour chamber depending on model  
+
+## Launch Info  
+Release Date: December 2023  
+Launch Price: US$799 (Suggested MSRP)  
+Market Target: 1440p/4K Ultra Gaming Enthusiasts  

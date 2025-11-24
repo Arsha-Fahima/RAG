@@ -1,0 +1,47 @@
+## AMD Radeon RX 7900 XTX Specifications
+Architecture: RDNA 3
+Fabrication Process: 5 nm GCD + 6 nm MCD (Chiplet Design)
+Compute Units: 96
+Game Clock: 2.3 GHz
+Boost Clock: 2.5 GHz
+Stream Processors: 6144
+Ray Accelerators: 96 (2nd-Gen)
+AI Accelerators: 192
+
+## Memory & Bandwidth
+VRAM: 24 GB GDDR6
+Memory Speed: 20 Gbps
+Memory Bus Width: 384-bit
+Memory Bandwidth: 960 GB/s (with Infinity Cache)
+Infinity Cache: 96 MB
+
+## Power & Thermals
+TDP / TBP: 355 W
+Typical Power Draw: 320–355 W
+Recommended PSU: 850 W
+Power Connectors: 2 × 8-pin
+Maximum Operating Temperature: 90 °C
+
+## Performance Metrics
+FP32 Compute: 61.4 TFLOPS
+Ray Tracing Throughput: Improved vs RDNA2
+Target Workloads: 4K Ultra Gaming, Creator Work, AI Acceleration
+
+## Display & IO
+Outputs: 3 × DisplayPort 2.1, 1 × HDMI 2.1
+PCIe Interface: PCIe 4.0 x16
+AV1: Decode & Encode Enabled
+VR Support: Yes
+
+## Feature Support
+API: DirectX 12 Ultimate, Vulkan 1.3, OpenGL 4.6
+Technologies: FSR 3 Frame Generation, Smart Access Memory, Fidelity AI
+
+## Physical & Build
+Form Factor: 3-slot, ~287–305 mm (varies by vendor)
+Cooling: Triple-fan vapor chamber designs
+
+## Launch Info
+Release Date: December 13, 2022
+Launch Price: US$999
+Market Target: High-end 4K Gaming Value Alternative to RTX 4090

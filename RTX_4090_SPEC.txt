@@ -1,0 +1,46 @@
+## NVIDIA GeForce RTX 4090 Specifications
+Architecture: Ada Lovelace
+Fabrication Process: TSMC 4N (4 nm)
+CUDA Cores: 16384
+RT Cores (3rd-Gen): 128
+Tensor Cores (4th-Gen): 512
+Base Clock: 2.23 GHz
+Boost Clock: 2.52 GHz
+
+## Memory & Bandwidth
+VRAM: 24 GB GDDR6X
+Memory Speed: 21 Gbps
+Memory Bus Width: 384-bit
+Memory Bandwidth: 1018 GB/s
+Cache (L2): 72 MB
+
+## Power & Thermals
+TDP / TBP: 450 W
+Typical Power Draw: 420-450 W
+Recommended PSU: 1000 W recommended
+Power Connectors: 12VHPWR (16-pin)
+Maximum Safe Temperature: 90 °C
+
+## Performance Metrics
+FP32 Compute: 82.6 TFLOPS
+Ray Tracing Throughput: ~191 RT-TFLOPS
+Tensor Performance: ~1.32 PFLOPS (FP8)
+Target Workloads: 4K Ultra, 8K AI Upscale, Professional ML
+
+## Display & IO
+Outputs: 3 × DisplayPort 1.4a, 1 × HDMI 2.1
+PCIe Interface: PCIe 4.0 x16
+VR Support: Yes
+
+## Feature Support
+API: DirectX 12 Ultimate, OpenGL 4.6, Vulkan 1.3, CUDA 12, OptiX 8
+Technologies: DLSS 3.5 Ray Reconstruction, Nvidia Reflex, G-Sync, AV1 Encode & Decode
+
+## Physical & Build
+Form Factor: 3-slot, 304 mm length
+Cooling: Triple-fan Vapor Chamber designs (varies by brand)
+
+## Launch Info
+Release Date: October 12, 2022
+Launch Price: US$1,599 Founders Edition
+Market Target: Enthusiast gaming, AI development, creative workloads
